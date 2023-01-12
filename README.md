@@ -8,7 +8,7 @@
 ---
 Uma cópia do clássico jogo Pong criada como projeto prático do curso "Jogos Clássicos Parte 1 - Pong" da Alura cujo objetivo é ensinar JavaScript para novos programadores. O jogo é todo funcional, tendo uma trilha sonora, movimentação pelo teclado e placar. Marca-se um ponto quando a bolinha passa da "raquete" do outro jogador (ou da máquina). O projeto foi realizado utilizando a plataforma p5.js, e os assets foram fornecidos previamente pela Alura. O foco principal foi criar toda a lógica por tras do jogo. Meu código se encontra no arquivo sketch.js
 
-[🔗 Acesse o projeto](https://hyanguimaraes.github.io/pong)
+[🔗 Acesse o projeto](https://hyanguimaraes.github.io/freeway)
 
 [📚 Página do curso "Jogos Clássicos Parte 1 - Pong" na plataforma Alura](https://www.alura.com.br/curso-online-pong-javascript)
 
